@@ -21,7 +21,7 @@ function Home() {
     <>
       <section className="iteam_section mt-4 container">
         <h2 id="head" className="px-2" style={{ fontWeight: 400}}>
-          Restaorants in Ahmedabad,And Gwalior Opne now
+          Restaurants in Ahmadabad,And Gwalior Open now
         </h2>
         <div className="row mt-2 d-flex justify-content-around align-items-center">
           {cartData.map((element, index) => {

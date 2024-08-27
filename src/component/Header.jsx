@@ -12,7 +12,7 @@ function Header() {
       <Navbar style={{ height: "60px", background: "black", color: "white" }}>
         <Container>
           <NavLink to="/" className="text-decoration-none text-light mx-2">
-            <h3 className="text-light">Ecommerce</h3>
+            <h3 className="text-light">Foodie</h3>
           </NavLink>
           <NavLink to="/cartdetails" className="text-decoration-none text-light mx-2">
             <div id="ex4">
